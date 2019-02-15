@@ -1,1 +1,1 @@
-# funjack
+# FunJACK
